@@ -1,0 +1,20 @@
+proc I [arg]
+(
+arg := + arg 2;
+);
+int a = 10;
+I[a];
+a := a;
+int b = 0;
+if b b:=5;
+b := 1;
+if b do 
+(
+b := 14;
+);
+while b do
+(
+b := - b 1;
+);
+if b a := 1 else a := 321;
+.
